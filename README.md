@@ -1,5 +1,5 @@
 # my first day on github
-today I learned that version control is an essential part of my career as a web developer.
+today I learned that **version control** is an essential part of my career as a web developer.
 some keywods rhat I should rememberfor later are:
 - git
 - hithub
