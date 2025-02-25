@@ -9,3 +9,4 @@ some keywods rhat I should rememberfor later are:
 - hash
 
 > the next 3 months will be a very exiting time, as I will learn new things every day!
+![a code image](https://www.outsideonline.com/culture/active-families/how-to-read-dog-body-language-happy-aggressive/)
